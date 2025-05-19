@@ -18,7 +18,7 @@ While you can find the latest compiled releases here in the **[Releases section]
 
 The Warcraft Rumble Bot is an automation tool designed to assist players with repetitive and time-consuming tasks within the game Warcraft Rumble. Its goal is to help you save time and effort on grinding for resources like gold and experience.
 
-**Key Features (Check our website for the full list!):**
+**Key Features:**
 
 * Efficiently farms experience through automated gameplay.
 * Can be configured to repeat quests.
